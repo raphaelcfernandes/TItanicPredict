@@ -14,3 +14,5 @@ GaussianNB <br/>
 Linear Discriminant Analysis <br/>
 Quadratic Discriminant Analysis <br/>
 Logistic Regression
+
+https://www.kaggle.com/c/titanic
