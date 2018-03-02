@@ -4,12 +4,12 @@ Kaggle competition to predict if a passenger survived the sinking of Titanic or 
 The following machine learning algorithm was applied:
 
 KNN <br/>
-Support Vector Machine__
-Decisions Tree__
-Random Forest__
-AdaBoost__
-Gradient Boosting__
-GaussianNB__
-Linear Discriminant Analysis__
-Quadratic Discriminant Analysis__
+Support Vector Machine <br/>
+Decisions Tree <br/>
+Random Forest <br/>
+AdaBoost <br/>
+Gradient Boosting <br/>
+GaussianNB <br/>
+Linear Discriminant Analysis <br/>
+Quadratic Discriminant Analysis <br/>
 Logistic Regression
